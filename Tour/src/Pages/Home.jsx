@@ -18,17 +18,17 @@ const Home = () => {
       <div className="relative h-[60vh] sm:h-[70vh] md:h-[80vh] xl:h-[90vh] mt-10">
         <Carousel slideInterval={4000} indicators={false} className="h-full">
           <img
-            src="https://www.brahmandtour.com/img/slider01.jpg"
+            src="https://tse2.mm.bing.net/th/id/OIP.lmTaj65fxf1hPbdEfm0PCgHaE9?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
             alt="Slide 1"
             className="w-full h-full object-cover"
           />
           <img
-            src="https://tse3.mm.bing.net/th/id/OIP.WMDcu-h4es85nIae0CxrfAHaDL?rs=1&pid=ImgDetMain&o=7&rm=3"
+            src="https://images.livspace-cdn.com/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/ond-1634120396-Obfdc/jfm-2023-1672723560-eFGVH/kitchen-1672749519-TNomr/d-inki-jfm2023-99-1672759331-TMgRB/19-1672759353-R0g3V.jpg"
             alt="Slide 2"
             className="w-full h-full object-cover"
           />
           <img
-            src="https://www.onthegotours.com/repository/GT-and-Kerala-790291659010970.jpg"
+            src="https://i.pinimg.com/originals/a5/ca/f8/a5caf898500cf33bf7e12ca8158a948c.jpg"
             alt="Slide 3"
             className="w-full h-full object-cover"
           />

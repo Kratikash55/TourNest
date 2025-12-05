@@ -6,7 +6,7 @@ const Hero = () => {
     <section className="relative min-h-screen flex items-center justify-center pt-14 overflow-hidden">
       {/* Background Image */}
       <img
-        src="https://travonika.com/wp-content/uploads/2023/02/international-tour-packages-768x576.jpg"
+        src="https://tse4.mm.bing.net/th/id/OIP.NDsHMxOLtQ_PtHrAsnicOgHaEH?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
         alt="International tour packages"
         className="absolute inset-0 w-full h-full object-cover opacity-50"
       />
